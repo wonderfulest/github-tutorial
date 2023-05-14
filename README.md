@@ -16,11 +16,9 @@ The tutorial covers a wide range of topics, including:
 6. Exploring GitHub Actions for automation and workflow customization
 7. Utilizing GitHub Pages for hosting static websites and documentation
 8. Best practices for code review, code organization, and documentation
-
 Additionally, the repository provides guidance on integrating GitHub with popular development tools and frameworks, such as Git command-line tools, IDEs, and project management platforms.
 
 Whether you prefer learning by reading or through hands-on activities, this GitHub tutorial caters to both styles of learning. It aims to empower users with the knowledge and skills needed to collaborate effectively, streamline workflows, and contribute to open-source projects confidently.
 
 Get started on your GitHub journey today by exploring this comprehensive tutorial repository, and unlock the power of version control and collaboration in your software development projects.
-
 
