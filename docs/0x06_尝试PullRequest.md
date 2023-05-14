@@ -12,8 +12,6 @@ Pull request不仅改进了评审和反馈过程，还有助于跟踪和讨论�
 
 https://docs.github.com/zh/get-started/quickstart/github-flow
 
-![GitHub-flow](https://muyids.oss-cn-beijing.aliyuncs.com/img/e725295ac764514088303ce8.png)
-
 ![Introdu](https://muyids.oss-cn-beijing.aliyuncs.com/img/GitHub-Flow.png)
 
 ### 创建分支
